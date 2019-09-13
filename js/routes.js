@@ -66,7 +66,7 @@ var routes = [
   // pages
   {
     path: '/dashboard/',
-    url: './pages/dashboard.html',
+    componentUrl: './pages/dashboard.html',
   },
   {
     path: '/verification/',
